@@ -3,4 +3,4 @@ Project Title: Akash_calculator_2021wa86337.
 * Features: A functional calculator app that can perform basic arithmetic operations.
 * Tech Stack: Kotlin, XML, Android Studio.
 * Author Information: Akash Das bits ID: 2021wa86337.
-* Github repositories: https://github.com/akash4563/Akash_2021wa86337_calculator.git.
+* Github repositories: https://github.com/akash4563/Akash_Das_calculator_2021wa86337.git.
